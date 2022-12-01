@@ -1,0 +1,22 @@
+@import "./common/fonts.scss", "./common/common.scss";
+
+.header__info {
+  font-family: "Montserrat";
+  margin-top: 50px;
+  display: flex;
+max-width: 1320pxg;
+  border-bottom: 2px solid #000;
+}
+.header__item{
+  display: flex;
+    align-items: center;
+}
+.header__logo {
+  margin-right: 50px;
+}
+.link {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  margin-right: 42px;
+}
